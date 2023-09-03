@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-component-card-ZghkiZ6plw)
 - Live Site URL: [Live site URL](https://devtetra.github.io/Stats-card-component/)
 
 ## My process
